@@ -20,34 +20,30 @@
     </header>
         <!-- Contenedor principal de la información -->
         <main class="grid grid-cols-1 lg:grid-cols-3 gap-8 items-start">
-        <!-- Columna de imagen (izquierda) -->
+        <!-- Columna de imagen (centro) -->
         <div class="lg:col-span-1 flex justify-center lg:block">
         <img src="https://www.americaninsap.com.co/wp-content/uploads/2021/09/logo-toyota.png"
         alt="Toyota"
         class="rounded-3xl shadow-lg w-full max-w-sm lg:max-w-none transform transition-transform duration-300 hover:scale-105">
-         </p>
-
+         
     </div>
     <!-- Tarjeta de Información General -->
-        <section class="bg-white p-6 sm:p-8 rounded-3xl shadow-xl mb-8">
-        <h2 class="text-2xl sm:text-3xl font-bold text-orange-600 mb-4"></h2>
-            <p class="text-base sm:text-lg mb-4">
-            <p class="text-base sm:text-lg">
-                 Con una presencia global masiva, Toyota produce una amplia gama de vehiculos. Su compromiso con la calidad, la seguridad y la sostenibilidad ha consolidado su reputación como un líder en la industria automotriz.
-                    </p>
-                </div>
-                </section> 
-               
-    <!-- Tarjeta de Información General -->
-    <!-- Contenedor principal de la información -->
-        <main class="grid grid-cols-1 lg:grid-cols-3 gap-8 items-start">
-            <!-- Columna de imagen (izquierda) -->
-            <div class="lg:col-span-1 flex justify-center lg:block">
-                <img src="https://www.toyota.com.co/images/corolla-cross/versions/seg-hev-preview.png"
-                     alt="Toyota"
-                     class="rounded-3xl shadow-lg w-full max-w-sm lg:max-w-none transform transition-transform duration-300 hover:scale-105">
-                    </p>
-                  </div>  
+    <section class="bg-white p-6 sm:p-8 rounded-3xl shadow-xl mb-8">
+    <h2 class="text-2xl sm:text-3xl font-bold text-orange-600 mb-4"></h2>
+    <p class="text-base sm:text-lg mb-4">
+    <p class="text-base sm:text-lg">
+Con una presencia global masiva, Toyota produce una amplia gama de vehiculos. Su compromiso con la calidad, la seguridad y la sostenibilidad ha consolidado su reputación como un líder en la industria automotriz.
+                    
+</div>
+<!-- Contenedor principal de la información -->
+<main class="grid grid-cols-1 lg:grid-cols-3 gap-8 items-start">
+ <!-- Columna de imagen (centro) -->
+ <div class="lg:col-span-1 flex justify-center lg:block">
+    <img src="https://www.toyota.com.co/images/corolla-cross/versions/seg-hev-preview.png"
+     alt="Toyota"
+     class="rounded-3xl shadow-lg w-full max-w-sm lg:max-w-none transform transition-transform duration-300 hover:scale-105">
+  </p>
+ </div>  
     <!-- Tarjeta de Historia y Filosofía -->
     <section class="bg-white p-6 sm:p-8 rounded-3xl shadow-xl mb-8">
         <h2 class="text-2xl sm:text-3xl font-bold text-orange-600 mb-4">Historia </h2>
