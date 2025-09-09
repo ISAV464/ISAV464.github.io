@@ -1,4 +1,3 @@
-HACER EL BIEN SABE BIEN 
 <!DOCTYPE html>
 <head>
     <!-- Establece el tipo de caracteres para que se muestren correctamente los acentos y la eñe -->
